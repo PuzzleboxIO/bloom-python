@@ -37,10 +37,6 @@ https://github.com/PuzzleboxIO/jigsaw-python
 
 - Create a symlink inside root directory to Synapse and Jigsaw:
 
-Example: ln -s ../../synapse-python/Puzzlebox/Synapse Synapse
-
-Example: ln -s ../../jigsaw-python/Puzzlebox/Jigsaw Jigsaw
-
 
 ============
 
